@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:0f172a,50:0ea5e9,100:22c55e&text=Nizar%20Robotics&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:0f172a,50:0ea5e9,100:22c55e&text=Nizar&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38"/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00F5D4&center=true&vCenter=true&width=900&lines=Hi+there+👋;Welcome+to+my+GitHub+Profile;Arduino+⚡+Robotics+🤖+C%2B%2B+Python;Building+cool+robots+with+code;Learning+something+new+every+day+🚀" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=1000&color=00F5D4&center=true&vCenter=true&width=900&lines=Hi+there+👋;Welcome+to+my+GitHub+Profile;Arduino+⚡+Robotics+🤖;C%2B%2B+and+Python+Developer;Build+Learn+Create+🚀"/>
 
 </div>
 
@@ -10,20 +10,18 @@
 
 # 👨‍💻 About Me
 
-```cpp
-class Nizar {
-public:
+🤖 Robotics enthusiast focused on Arduino & embedded systems
 
-    string role = "Student & Robotics Developer";
-    string focus = "Arduino + Robotics";
-    string languages = "C++ + Python";
-    string currentMission =
-        "Building smart robots and learning embedded systems";
+⚡ Building cool projects with Arduino and sensors
 
-    bool keepLearning = true;
-    bool loveRobotics = true;
-};
-```
+💻 Learning C++ and Python
+
+🚀 Interested in robotics automation
+
+📚 Exploring technology every day
+
+🎯 Goal:
+Build useful robotics projects and keep improving programming
 
 ---
 
@@ -31,14 +29,14 @@ public:
 
 ### ⚙️ Main Focus
 
-- Arduino Projects  
-- Robotics Experiments  
-- Embedded Systems  
-- Sensor Modules  
-- Automation Projects  
-- Python for Robotics  
-- C++ Programming  
-- IoT Learning  
+- Arduino Projects
+- Robotics Experiments
+- Embedded Systems
+- Sensor Modules
+- Automation
+- C++ Programming
+- Python
+- IoT Learning
 
 ---
 
@@ -46,7 +44,7 @@ public:
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=cpp,python,github,vscode"/>
+<img src="https://skillicons.dev/icons?i=cpp,python,arduino,github,vscode"/>
 
 </div>
 
@@ -56,9 +54,11 @@ public:
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="180"
+src="https://github-readme-stats.vercel.app/api?username=zarr-code-er&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="180"
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=zarr-code-er&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </div>
 
@@ -68,7 +68,7 @@ public:
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=zarr-code-er&theme=tokyo-night"/>
 
 </div>
 
@@ -78,7 +78,7 @@ public:
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&no-frame=true&margin-w=15&margin-h=15"/>
+<img src="https://github-profile-trophy.vercel.app/?username=zarr-code-er&theme=tokyonight&no-frame=true&margin-w=10"/>
 
 </div>
 
@@ -88,7 +88,7 @@ public:
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true"/>
+<img src="https://streak-stats.demolab.com?user=zarr-code-er&theme=tokyonight&hide_border=true"/>
 
 </div>
 
@@ -98,7 +98,7 @@ public:
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake.svg"/>
+<img src="https://github.com/zarr-code-er/zarr-code-er/blob/output/github-contribution-grid-snake-dark.svg?raw=true"/>
 
 </div>
 
@@ -107,33 +107,22 @@ public:
 # 🎮 Robotics Progress
 
 ```txt
-╔═══════════════════════════════════╗
-║ 🤖 NIZAR ROBOTICS STATUS         ║
-╠═══════════════════════════════════╣
-║ Arduino           ██████░░░░     ║
-║ Robotics          ██████░░░░     ║
-║ C++               █████░░░░░     ║
-║ Python            ████░░░░░░     ║
-║ New Projects      ███████░░░     ║
-║ Learning          █████████░     ║
-╚═══════════════════════════════════╝
+╔══════════════════════════════╗
+║ 🤖 NIZAR STATUS              ║
+╠══════════════════════════════╣
+║ Arduino        ███████░░░    ║
+║ Robotics       ███████░░░    ║
+║ C++            █████░░░░░    ║
+║ Python         ████░░░░░░    ║
+║ Projects       ████████░░    ║
+╚══════════════════════════════╝
 ```
-
----
-
-# 🎯 Current Mission
-
-⚡ Learn robotics deeper  
-🤖 Build better Arduino robots  
-💻 Improve C++ logic  
-🐍 Practice Python projects  
-🚀 Upload more projects to GitHub
 
 ---
 
 <div align="center">
 
-### ⭐ Thanks for visiting my GitHub ⭐
+### ⭐ Thanks for visiting my GitHub
 
 ### 🤖 Code • Build • Learn • Repeat 🚀
 
