@@ -1,8 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:0f172a,50:0ea5e9,100:22c55e&text=Nizar&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38"/>
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=1000&color=00F5D4&center=true&vCenter=true&width=900&lines=Hi+there+👋;Welcome+to+my+GitHub+Profile;Arduino+⚡+Robotics+🤖;C%2B%2B+and+Python+Developer;Build+Learn+Create+🚀"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0f172a,50:0ea5e9,100:22c55e&text=Nizar&fontSize=52&fontColor=ffffff"/>
 
 </div>
 
@@ -10,33 +8,15 @@
 
 # 👨‍💻 About Me
 
-🤖 Robotics enthusiast focused on Arduino & embedded systems
+🤖 Arduino & Robotics enthusiast
 
-⚡ Building cool projects with Arduino and sensors
+⚡ Learning embedded systems
 
-💻 Learning C++ and Python
+💻 C++ and Python
 
-🚀 Interested in robotics automation
+🚀 Building cool projects
 
-📚 Exploring technology every day
-
-🎯 Goal:
-Build useful robotics projects and keep improving programming
-
----
-
-# 🤖 Robotics Lab
-
-### ⚙️ Main Focus
-
-- Arduino Projects
-- Robotics Experiments
-- Embedded Systems
-- Sensor Modules
-- Automation
-- C++ Programming
-- Python
-- IoT Learning
+📚 Exploring new technology every day
 
 ---
 
@@ -54,31 +34,13 @@ Build useful robotics projects and keep improving programming
 
 <div align="center">
 
-<img height="180"
-src="https://github-readme-stats.vercel.app/api?username=zarr-code-er&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img
+src="https://github-readme-stats.vercel.app/api?username=zarr-code-er&show_icons=true&theme=github_dark&hide_border=true"/>
 
-<img height="180"
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=zarr-code-er&layout=compact&theme=tokyonight&hide_border=true"/>
+<br>
 
-</div>
-
----
-
-# 🔥 Contribution Graph
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=zarr-code-er&theme=tokyo-night"/>
-
-</div>
-
----
-
-# 🏆 Achievements
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=zarr-code-er&theme=tokyonight&no-frame=true&margin-w=10"/>
+<img
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=zarr-code-er&layout=compact&theme=github_dark&hide_border=true"/>
 
 </div>
 
@@ -88,7 +50,8 @@ src="https://github-readme-stats.vercel.app/api/top-langs/?username=zarr-code-er
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=zarr-code-er&theme=tokyonight&hide_border=true"/>
+<img
+src="https://streak-stats.demolab.com?user=zarr-code-er&theme=github-dark&hide_border=true"/>
 
 </div>
 
@@ -98,7 +61,8 @@ src="https://github-readme-stats.vercel.app/api/top-langs/?username=zarr-code-er
 
 <div align="center">
 
-<img src="https://github.com/zarr-code-er/zarr-code-er/blob/output/github-contribution-grid-snake-dark.svg?raw=true"/>
+<img
+src="https://github.com/zarr-code-er/zarr-code-er/blob/output/github-contribution-grid-snake.svg?raw=true"/>
 
 </div>
 
@@ -107,24 +71,23 @@ src="https://github-readme-stats.vercel.app/api/top-langs/?username=zarr-code-er
 # 🎮 Robotics Progress
 
 ```txt
-╔══════════════════════════════╗
-║ 🤖 NIZAR STATUS              ║
-╠══════════════════════════════╣
-║ Arduino        ███████░░░    ║
-║ Robotics       ███████░░░    ║
-║ C++            █████░░░░░    ║
-║ Python         ████░░░░░░    ║
-║ Projects       ████████░░    ║
-╚══════════════════════════════╝
+╔══════════════════════╗
+║ 🤖 NIZAR STATUS      ║
+╠══════════════════════╣
+║ Arduino   ███████░░  ║
+║ Robotics  ███████░░  ║
+║ C++       █████░░░░  ║
+║ Python    ████░░░░░  ║
+╚══════════════════════╝
 ```
 
 ---
 
 <div align="center">
 
-### ⭐ Thanks for visiting my GitHub
+⭐ Thanks for visiting ⭐
 
-### 🤖 Code • Build • Learn • Repeat 🚀
+🤖 Code • Build • Learn 🚀
 
 </div>
 
