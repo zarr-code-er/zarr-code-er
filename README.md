@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0f172a,50:0ea5e9,100:22c55e&text=Nizar&fontSize=52&fontColor=ffffff"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=1000&color=00F5D4&center=true&vCenter=true&width=900&lines=Hi+there+👋;Welcome+to+my+GitHub+Profile;Arduino+⚡+Robotics+🤖;C%2B%2B+and+Python+Developer;Build+Learn+Create+🚀"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00F5D4&center=true&vCenter=true&width=900&lines=Hi+I'm+Nizar+👋;Arduino+Enthusiast+⚡;Learning+Robotics+🤖;C%2B%2B+%7C+Python;Building+cool+robot+projects+🚀" />
 
 </div>
 
@@ -12,37 +12,33 @@
 
 🤖 Arduino & Robotics enthusiast
 
-⚡ Building projects with Arduino and sensors
+⚡ Building robotics projects with Arduino and embedded systems
 
 💻 Learning C++ and Python
 
-🚀 Interested in embedded systems and automation
+🚀 Interested in automation and robotics development
 
-📚 Always exploring technology
+📚 Exploring technology and improving every day
 
-🎯 Goal: Build useful robotics projects and improve every day
-
----
-
-# 🚀 Languages & Tools
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=cpp,python,arduino,github,vscode"/>
-
-</div>
+🎯 Goal:
+Build useful robotics projects and become better at programming
 
 ---
 
-# 📊 GitHub Stats
+### 🛠️ Tech Stack
 
 <div align="center">
 
-<img height="180"
-src="https://github-readme-stats.vercel.app/api?username=zarr-code-er&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
+<img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" height="40" alt="Arduino"/>
+<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" height="40" alt="C++"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" height="40" alt="Python"/>
+<img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" height="40" alt="VS Code"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" height="40" alt="GitHub"/>
 
-<img height="180"
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=zarr-code-er&layout=compact&theme=tokyonight&hide_border=true"/>
+<img src="https://img.shields.io/badge/ROS2-223344?style=for-the-badge&logo=ros&logoColor=white" height="40" alt="ROS2"/>
+<img src="https://img.shields.io/badge/FreeRTOS-000000?style=for-the-badge&logo=freertos&logoColor=white" height="40" alt="FreeRTOS"/>
+<img src="https://img.shields.io/badge/STM32-FF0000?style=for-the-badge&logo=stmicroelectronics&logoColor=white" height="40" alt="STM32"/>
+<img src="https://img.shields.io/badge/ESP32-000000?style=for-the-badge&logo=espressif&logoColor=white" height="40" alt="ESP32"/>
 
 </div>
 
@@ -53,16 +49,6 @@ src="https://github-readme-stats.vercel.app/api/top-langs/?username=zarr-code-er
 <div align="center">
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=zarr-code-er&theme=tokyo-night"/>
-
-</div>
-
----
-
-# 📈 GitHub Streak
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=zarr-code-er&theme=tokyonight&hide_border=true"/>
 
 </div>
 
@@ -85,9 +71,9 @@ src="https://github-readme-stats.vercel.app/api/top-langs/?username=zarr-code-er
 
 <div align="center">
 
-### ⭐ Thanks for visiting my GitHub
+### ⭐ Thanks for visiting my profile
 
-### 🤖 Code • Build • Learn • Repeat 🚀
+🤖 Code • Build • Learn • Repeat 🚀
 
 </div>
 
