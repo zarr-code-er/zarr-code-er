@@ -2,7 +2,9 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0f172a,50:0ea5e9,100:22c55e&text=Nizar&fontSize=52&fontColor=ffffff"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=1000&color=00F5D4&center=true&vCenter=true&width=900&lines=Hi+there+👋;Welcome+to+my+GitHub+Profile;Arduino+⚡+Robotics+🤖;C%2B%2B+and+Python+Developer;Build+Learn+Create+🚀"/>
+<img
+src="https://readme-typing-svg.demolab.com/?lines=Hi+there+👋;Welcome+to+my+GitHub;Arduino+⚡+Robotics+🤖;C%2B%2B+%7C+Python+Developer;Build+Learn+Create+🚀&center=true&width=700&height=50&color=00F5D4&size=24"
+/>
 
 </div>
 
@@ -12,15 +14,15 @@
 
 🤖 Arduino & Robotics enthusiast
 
-⚡ Building projects with Arduino and sensors
+⚡ Building projects with Arduino
 
 💻 Learning C++ and Python
 
-🚀 Interested in embedded systems and automation
+🚀 Interested in embedded systems
 
-📚 Always exploring technology
+📚 Exploring new technology every day
 
-🎯 Goal: Build useful robotics projects and improve every day
+🎯 Goal: build cool robotics projects and improve consistently
 
 ---
 
@@ -34,35 +36,11 @@
 
 ---
 
-# 📊 GitHub Stats
-
-<div align="center">
-
-<img height="180"
-src="https://github-readme-stats.vercel.app/api?username=zarr-code-er&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
-
-<img height="180"
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=zarr-code-er&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</div>
-
----
-
 # 🔥 Contribution Graph
 
 <div align="center">
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=zarr-code-er&theme=tokyo-night"/>
-
-</div>
-
----
-
-# 📈 GitHub Streak
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=zarr-code-er&theme=tokyonight&hide_border=true"/>
 
 </div>
 
@@ -85,9 +63,9 @@ src="https://github-readme-stats.vercel.app/api/top-langs/?username=zarr-code-er
 
 <div align="center">
 
-### ⭐ Thanks for visiting my GitHub
+⭐ Thanks for visiting
 
-### 🤖 Code • Build • Learn • Repeat 🚀
+🤖 Code • Build • Learn 🚀
 
 </div>
 
