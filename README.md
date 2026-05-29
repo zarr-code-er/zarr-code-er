@@ -1,16 +1,40 @@
-## Hi there 👋
+<!-- ======================= -->
+<!--   NIZAR GITHUB PROFILE  -->
+<!-- ======================= -->
 
-<!--
-**zarr-code-er/zarr-code-er** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
 
-Here are some ideas to get you started:
+# 👋 Hi, I'm Nizar
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🤖 Arduino • Robotics • Embedded Systems • C++ • Python
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00F5D4&center=true&vCenter=true&width=900&lines=Welcome+to+my+GitHub+Profile+🚀;Arduino+%26+Robotics+Enthusiast+🤖;Building+Smart+Projects+with+C%2B%2B+and+Python;Learning+Embedded+Systems+Every+Day+⚡;Code.+Build.+Learn.+Repeat.+🔥" />
+
+<br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:00f5d4&height=220&section=header&text=NIZAR%20ROBOTICS&fontSize=50&fontColor=ffffff&animation=fadeIn"/>
+
+</div>
+
+---
+
+# ⚙️ About Me
+
+```cpp
+class Nizar {
+public:
+
+    string role = "Student & Robotics Enthusiast";
+    string focus = "Arduino + Embedded Systems";
+    string learning = "Robotics + C++ + Python";
+    string dream = "Build smart robots and automation projects";
+
+    vector<string> skills = {
+        "Arduino",
+        "Sensors",
+        "Robotics",
+        "C++",
+        "Python",
+        "IoT"
+    };
+};
